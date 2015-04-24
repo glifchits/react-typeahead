@@ -34,7 +34,7 @@
     "fuzzy": "^0.1.0",
     "react": "^0.12.2"
   },
-  "main": "src/react-typeahead.js",
+  "main": "dist/react-typeahead.js",
   "devDependencies": {
     "browserify": "^8.0.2",
     "chai": "^1.9.1",
